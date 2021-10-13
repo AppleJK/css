@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'MakroXM';
+    src: url(fonts/MakroXM-Black.WOFF) format("woff")
+         url(fonts/MakroXM-Black.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: 'GothamPro';
+    src: url(fonts/GothamPro.WOFF) format("woff")
+         url(fonts/GothamPro.ttf) format("truetype");
+}
